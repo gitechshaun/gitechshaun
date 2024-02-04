@@ -29,7 +29,7 @@
 - 🌱 I’m learning mobile game development, and harnessing my former robot overlords to accellerate my journey. 
 - 👯 I’m looking to collaborate on any project harnessing technology to solve real-world problems for as many people as possible. 
 - 📫 How to reach me: mindshare@robotwranglers.tech 
-- ⚡ Fun fact: My wife is in the top 1 percent of [Dead Cells](https://dead-cells.com) players worldwide.
+- ⚡ Fun fact: My wife is in the top 1% of [Dead Cells](https://dead-cells.com) players worldwide.
 
 <!---
 gitechshaun/gite- chshaun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
